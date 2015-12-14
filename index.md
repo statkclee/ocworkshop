@@ -18,7 +18,7 @@ subtitle: 두근두근 나만의 컴퓨터 만들기 워크샵
 - 워크샵 참석하시는 분께 커피가 전원 지원 (김태혁님 후원)
 - 점심은 힐링푸드 [고급 초밥세트(힐링초밥 B)](http://healingdosirak.com/) (워크샵 참석비에 포함)
 - Transcend 마이크로 SD카드 8G 무료 제공 (xwMOOC) 
-- (가칭) 초고속 소프트웨어 정규 교육(초등~고등학교) [^1][^2][^3][^4] (xwMOOC)
+- (가칭) 초고속 소프트웨어 정규 교육(초등~고등학교) [^1][^2][^3][^4] [^5][^6](xwMOOC)
 - xwMOOC 한글 번역 전자책 무료 제공 : $120 + 알파 상당 (xwMOOC)
     - 컴퓨터과학 언플러그드 : $20 
     - 정보교육을 위한 파이썬 : $10
@@ -66,3 +66,6 @@ subtitle: 두근두근 나만의 컴퓨터 만들기 워크샵
 [^2]: [러플(Rur-ple)](http://rur-ple.xwmooc.org/)
 [^3]: [소프트웨어 카펜트리 거북이 (영문)](http://swcarpentry.github.io/python-novice-turtles/)
 [^4]: [소프트웨어 카펜트리 거북이 (국문)](http://swcarpentry.github.io/python-novice-turtles/index-kr.html)
+[^5]: [리보그](http://reeborg.xwmooc.org)
+[^6]: [리보그(영문)](http://reeborg.ca/docs/kr/)
+
